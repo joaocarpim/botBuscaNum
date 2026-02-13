@@ -1,0 +1,21 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais
+env/
+venv/
+.env
+
+# Builds e Distribuição (O erro dos 50MB)
+build/
+dist/
+*.spec
+*.pkg
+*.exe
+
+# Logs e IDEs
+*.log
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+pyside6
+selenium
+webdriver-manager
+python-dotenv
